@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.baw {
+    background-color: black;
+    color: white;
+}
+
+.chimki {
+    background-color: yellow;
+}
+
+.baw, .chimki {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
